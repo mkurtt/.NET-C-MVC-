@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAA.Basecore", "MAA.Basecore\MAA.Basecore.csproj", "{CA45D650-717C-499B-ADF5-BD1FAD3B6C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.EMarket.Datacore", "Vektorel.EMarket.Datacore\Vektorel.EMarket.Datacore.csproj", "{1CEF1C98-EF63-465C-9F78-DC6FAB0501B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.EMarket.Domain", "Vektorel.EMarket.Domain\Vektorel.EMarket.Domain.csproj", "{0952D1FF-4ADB-4D78-88EB-B248134F2FF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{ED8E19D8-2D3A-49C2-82B8-7B53A2337F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.EMarketTestForm.UI", "Vektorel.EMarketTestForm.UI\Vektorel.EMarketTestForm.UI.csproj", "{41BFFD9A-F565-487B-80D8-2B1AAE06D8C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{E2A32B8C-643F-4E99-BA87-AAE0A7D49D73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{06BB881C-2A44-4A8A-93CE-7C60426B75CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.EMarket.MVC.UI", "Vektorel.EMarket.MVC.UI\Vektorel.EMarket.MVC.UI.csproj", "{C1963F90-57A9-4C56-B89C-BD29B785A594}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{84009094-0496-4FD8-8F0C-5D5B36993B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.EMarket.WebApi", "Vektorel.EMarket.WebApi\Vektorel.EMarket.WebApi.csproj", "{B55C3CF1-FB5A-4130-9585-0D7C05A9EDDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebWorkshop", "WebWorkshop", "{2C2F038E-99CF-43E2-805A-D5A2FF5189D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proje1", "Proje1", "{D2B4FC1A-1926-4245-821C-61B0D45C5111}"
+	ProjectSection(SolutionItems) = preProject
+		website\index.css = website\index.css
+		website\index.html = website\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MockData", "MockData", "{4CE2A5FC-7F4F-41B5-8ACF-8E0AF6433167}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Main.Categories.sql = ..\..\Main.Categories.sql
+		..\..\Main.CategoryGroups.sql = ..\..\Main.CategoryGroups.sql
+		..\..\Main.Customers.sql = ..\..\Main.Customers.sql
+		..\..\Main.Products.sql = ..\..\Main.Products.sql
+		..\..\Management.Users.sql = ..\..\Management.Users.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.EMarket.AdminPanel.UI", "Vektorel.EMarket.AdminPanel.UI\Vektorel.EMarket.AdminPanel.UI.csproj", "{2A559448-6E49-4784-9C0D-0E68C3EEA070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA45D650-717C-499B-ADF5-BD1FAD3B6C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45D650-717C-499B-ADF5-BD1FAD3B6C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45D650-717C-499B-ADF5-BD1FAD3B6C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45D650-717C-499B-ADF5-BD1FAD3B6C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEF1C98-EF63-465C-9F78-DC6FAB0501B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEF1C98-EF63-465C-9F78-DC6FAB0501B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEF1C98-EF63-465C-9F78-DC6FAB0501B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEF1C98-EF63-465C-9F78-DC6FAB0501B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0952D1FF-4ADB-4D78-88EB-B248134F2FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0952D1FF-4ADB-4D78-88EB-B248134F2FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0952D1FF-4ADB-4D78-88EB-B248134F2FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0952D1FF-4ADB-4D78-88EB-B248134F2FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BFFD9A-F565-487B-80D8-2B1AAE06D8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BFFD9A-F565-487B-80D8-2B1AAE06D8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BFFD9A-F565-487B-80D8-2B1AAE06D8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BFFD9A-F565-487B-80D8-2B1AAE06D8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1963F90-57A9-4C56-B89C-BD29B785A594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1963F90-57A9-4C56-B89C-BD29B785A594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1963F90-57A9-4C56-B89C-BD29B785A594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1963F90-57A9-4C56-B89C-BD29B785A594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55C3CF1-FB5A-4130-9585-0D7C05A9EDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55C3CF1-FB5A-4130-9585-0D7C05A9EDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55C3CF1-FB5A-4130-9585-0D7C05A9EDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55C3CF1-FB5A-4130-9585-0D7C05A9EDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A559448-6E49-4784-9C0D-0E68C3EEA070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A559448-6E49-4784-9C0D-0E68C3EEA070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A559448-6E49-4784-9C0D-0E68C3EEA070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A559448-6E49-4784-9C0D-0E68C3EEA070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA45D650-717C-499B-ADF5-BD1FAD3B6C16} = {E2A32B8C-643F-4E99-BA87-AAE0A7D49D73}
+		{1CEF1C98-EF63-465C-9F78-DC6FAB0501B6} = {E2A32B8C-643F-4E99-BA87-AAE0A7D49D73}
+		{0952D1FF-4ADB-4D78-88EB-B248134F2FF1} = {E2A32B8C-643F-4E99-BA87-AAE0A7D49D73}
+		{41BFFD9A-F565-487B-80D8-2B1AAE06D8C2} = {ED8E19D8-2D3A-49C2-82B8-7B53A2337F15}
+		{C1963F90-57A9-4C56-B89C-BD29B785A594} = {06BB881C-2A44-4A8A-93CE-7C60426B75CF}
+		{B55C3CF1-FB5A-4130-9585-0D7C05A9EDDE} = {84009094-0496-4FD8-8F0C-5D5B36993B61}
+		{D2B4FC1A-1926-4245-821C-61B0D45C5111} = {2C2F038E-99CF-43E2-805A-D5A2FF5189D6}
+		{4CE2A5FC-7F4F-41B5-8ACF-8E0AF6433167} = {E2A32B8C-643F-4E99-BA87-AAE0A7D49D73}
+		{2A559448-6E49-4784-9C0D-0E68C3EEA070} = {06BB881C-2A44-4A8A-93CE-7C60426B75CF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896C8CBF-6276-4F29-A940-EEC0A1DF8A13}
+	EndGlobalSection
+EndGlobal

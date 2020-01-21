@@ -1,0 +1,176 @@
+C:\Users\vektorel\Desktop\28 Aralık 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\02 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\02 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\02 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\02 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\02 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\04 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\04 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\04 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\04 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\04 Ocak 2018\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\07 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\07 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\07 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\07 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\07 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\09 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\09 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\09 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\09 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\09 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\16 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\16 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\16 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\16 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\16 Ocak 2019\Vektorel.MusicStore\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\08 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\08 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\08 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\08 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\08 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\11 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\11 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\11 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\11 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\11 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Paylas\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Paylas\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Paylas\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\Paylas\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Paylas\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\15 Şubat 2019\Vektorel.ElectronicMarket.App\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojAssemblyReference.cache
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll.config
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\MAA.Basecore\obj\Debug\MAA.Basecore.pdb

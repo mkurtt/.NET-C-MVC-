@@ -1,0 +1,35 @@
+﻿@model BaseViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="shortcut icon" href="~/Content/theme/themes/images/ico/favicon.ico">
+    @Styles.Render("~/style/index")
+
+    <style type="text/css" id="enject"></style>
+
+</head>
+<body>
+    @Html.Partial("~/Views/Shared/Partials/header.cshtml")
+    <div id="mainBody">
+        <div class="container">
+            <div class="row">
+                @{Html.RenderAction(actionName: "LoadCategories", controllerName: "Home");}
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    @Html.Partial("~/Views/Shared/Partials/footer.cshtml")
+
+
+    @Scripts.Render("~/script/layout")
+
+    <script type="text/javascript" src="~/Content/js/manage/usermanager.js"></script>
+</body>
+</html>

@@ -1,0 +1,135 @@
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.dll.config
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Antlr3.Runtime.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Helpers.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Mvc.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Optimization.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Razor.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Deployment.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Razor.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\WebGrease.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Helpers.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Mvc.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Optimization.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Razor.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Deployment.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Razor.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Antlr3.Runtime.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.csprojResolveAssemblyReference.cache
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.SqlServer.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\MAA.Basecore.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.WebHost.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Mvc.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Datacore.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Domain.dll
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\MAA.Basecore.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Datacore.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Domain.pdb
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.SqlServer.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.WebHost.xml
+D:\YU - 92\1 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.dll.config
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Antlr3.Runtime.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Helpers.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Mvc.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Optimization.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Razor.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Datacore.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\WebGrease.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Datacore.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Helpers.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Mvc.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Razor.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Optimization.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Antlr3.Runtime.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.dll.config
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.AdminPanel.UI.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Antlr3.Runtime.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Mvc.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Helpers.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Mvc.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Optimization.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Razor.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Datacore.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\WebGrease.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Datacore.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Newtonsoft.Json.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Ninject.Web.Mvc.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Helpers.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Mvc.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Razor.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\System.Web.Optimization.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\bin\Antlr3.Runtime.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.AdminPanel.UI\obj\Debug\Vektorel.EMarket.AdminPanel.UI.pdb

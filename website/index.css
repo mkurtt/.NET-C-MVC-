@@ -1,0 +1,20 @@
+﻿#vs1{
+    color:red;
+}
+
+.spanler{
+    font-size:30px;
+    color:green;
+}
+
+body{
+    font-size:50px;
+}
+
+div{
+
+}
+
+span[class]{
+    color:orange;
+}

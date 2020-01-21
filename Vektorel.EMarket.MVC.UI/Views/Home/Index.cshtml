@@ -1,0 +1,28 @@
+﻿@model IndexViewModel
+@{
+    Layout = "~/Views/Shared/Layouts/_Layout.cshtml";
+    ViewBag.Title = "Index Sayfası";
+}
+<div class="span9">
+    @{Html.RenderAction(actionName: "RenderFeaturedProducts", controllerName: "Product"); }
+    <div id="latestProducts">
+        @{Html.RenderAction(actionName: "RenderLatestProducts", controllerName: "Product");}
+    </div>
+    <div class="content_detail__pagination cdp" actpage="1">
+        <a href="#!-1" class="cdp_i">prev</a>
+        @for (int i = 1; i <= Model.TotalProductCount / 6; i++)
+        {
+            <a href='#!@i' class="cdp_i">@i</a>
+        }
+        <a href="#!+1" class="cdp_i">next</a>
+    </div>
+</div>
+
+@section indexcss{
+    <link href="~/Content/css/pagination.css" rel="stylesheet" />
+}
+@section indexjs{
+
+}
+
+

@@ -1,0 +1,74 @@
+﻿@model SideBarViewModel
+<div id="sidebar" class="span3">
+    <div class="well well-small"><a id="myCart" href="product_summary.html"><img src="~/Content/theme/themes/images/ico-cart.png" alt="cart"><span class="itemcount">0</span> Items in your cart  <span class="badge badge-warning pull-right" id="sidetotal">$155.00</span></a></div>
+    <ul id="sideManu" class="nav nav-tabs nav-stacked">
+
+        @foreach (var item in Model.Groups)
+        {
+
+            if (Model.Groups.IndexOf(item)==0)
+            {
+                <li class="subMenu open">
+                    <a> @item.Name [230]</a>
+                    <ul>
+
+                        @foreach (var cat in item.Categories)
+                        {
+                            if (item.Categories.ToList().IndexOf(cat) == 0)
+                            {
+                                <li><a class="active" href='@Url.Action("ChangeProductsByCategoryId", "Home", new { categoryid=cat.Id })'><i class="icon-chevron-right"></i>Cameras (100) </a></li>
+                            }
+                            else
+                            {
+                                <li><a href='@Url.Action("ChangeProductsByCategoryId", "Home", new { categoryid = cat.Id })'><i class="icon-chevron-right"></i>@cat.Name</a></li>
+                            }
+
+                        }
+                    </ul>
+                </li>
+            }
+            else
+            {
+                <li class="subMenu">
+                    <a> @item.Name [230]</a>
+                    <ul style="display:none;">
+
+                        @foreach (var cat in item.Categories)
+                        {
+                            if (item.Categories.ToList().IndexOf(cat) == 0)
+                            {
+                                <li><a href='@Url.Action("ChangeProductsByCategoryId", "Home", new { categoryid = cat.Id })'><i class="icon-chevron-right"></i>Cameras (100) </a></li>
+                            }
+                            else
+                            {
+                                <li><a href='@Url.Action("ChangeProductsByCategoryId", "Home", new { categoryid = cat.Id })'><i class="icon-chevron-right"></i>@cat.Name</a></li>
+                            }
+                        }
+                    </ul>
+                </li>
+            }
+        }
+    </ul>
+    <br />
+    <div class="thumbnail">
+        <img src="~/Content/theme/themes/images/products/panasonic.jpg" alt="Bootshop panasonoc New camera" />
+        <div class="caption">
+            <h5>Panasonic</h5>
+            <h4 style="text-align:center"><a class="btn" href="product_details.html"> <i class="icon-zoom-in"></i></a> <a class="btn" href="#">Add to <i class="icon-shopping-cart"></i></a> <a class="btn btn-primary" href="#">$222.00</a></h4>
+        </div>
+    </div><br />
+    <div class="thumbnail">
+        <img src="~/Content/theme/themes/images/products/kindle.png" title="Bootshop New Kindel" alt="Bootshop Kindel">
+        <div class="caption">
+            <h5>Kindle</h5>
+            <h4 style="text-align:center"><a class="btn" href="product_details.html"> <i class="icon-zoom-in"></i></a> <a class="btn" href="#">Add to <i class="icon-shopping-cart"></i></a> <a class="btn btn-primary" href="#">$222.00</a></h4>
+        </div>
+    </div><br />
+    <div class="thumbnail">
+        <img src="~/Content/theme/themes/images/payment_methods.png" title="Bootshop Payment Methods" alt="Payments Methods">
+        <div class="caption">
+            <h5>Payment Methods</h5>
+        </div>
+    </div>
+</div>
+

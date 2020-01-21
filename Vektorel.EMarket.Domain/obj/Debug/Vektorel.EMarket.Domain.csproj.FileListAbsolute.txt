@@ -1,0 +1,124 @@
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\20 Şubat 2019\18 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\22 Şubat 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190223T210253Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\04 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\15 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\18 Mart 2019\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\Vektorel.EMarket-20190321T152803Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190321T195659Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\03 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\Vektorel.EMarket.Domain.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\MAA.Basecore.pdb
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Debug\EntityFramework.xml
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.csprojResolveAssemblyReference.cache
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.dll
+C:\Users\vektorel\Desktop\05 Nisan 2019\Vektorel.EMarket\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Debug\Vektorel.EMarket.Domain.pdb

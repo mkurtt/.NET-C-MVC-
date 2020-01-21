@@ -1,0 +1,12 @@
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\Vektorel.EMarket.Domain.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\bin\Release\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Release\Vektorel.EMarket.Domain.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Release\Vektorel.EMarket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Release\Vektorel.EMarket.Domain.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Release\Vektorel.EMarket.Domain.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\Vektorel.EMarket.Domain\obj\Release\Vektorel.EMarket.Domain.pdb

@@ -1,0 +1,12 @@
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\MAA.Basecore.dll.config
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\MAA.Basecore.pdb
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\EntityFramework.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\EntityFramework.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Release\MAA.Basecore.csprojAssemblyReference.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Release\MAA.Basecore.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Release\MAA.Basecore.csproj.CopyComplete
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Release\MAA.Basecore.dll
+C:\Users\MEHMET\Downloads\Vektorel.EMarket-20190318T202521Z-001\Vektorel.EMarket\MAA.Basecore\obj\Release\MAA.Basecore.pdb

@@ -1,0 +1,32 @@
+﻿@model HandleErrorInfo
+@{
+    Layout = "~/Views/Shared/Layouts/error_Layout.cshtml";
+}
+
+<div id="notfound">
+    <div class="notfound">
+        <div class="notfound-bg">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <h1>oops!</h1>
+        <h2>Error 500 : Internal Server Error</h2>
+        <h3>It is not your fault, Will. It is not your fault</h3>
+        <a href="#">go back</a>
+        <div class="notfound-social">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-pinterest"></i></a>
+            <a href="#"><i class="fa fa-google-plus"></i></a>
+        </div>
+        <div>
+            <fieldset>
+                <legend>Temporary Error Data</legend>
+                @Model.ActionName
+                <hr />
+                @Model.Exception.Message
+            </fieldset>
+        </div>
+    </div>
+</div>
